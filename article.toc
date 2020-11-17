@@ -1,0 +1,4 @@
+\babel@toc {russian}{}
+\contentsline {chapter}{\numberline {1}Введение}{3}%
+\contentsline {section}{\numberline {1.1}Проблематика}{3}%
+\contentsline {section}{\numberline {1.2}fse}{3}%

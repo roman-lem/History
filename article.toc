@@ -1,0 +1,12 @@
+\babel@toc {russian}{}
+\contentsline {chapter}{\noindent Введение}{3}%
+\contentsline {chapter}{\numberline {1}Зарождение языческой Руси}{5}%
+\contentsline {section}{\numberline {1.1}Формирование}{5}%
+\contentsline {chapter}{\numberline {2}Религия}{7}%
+\contentsline {section}{\numberline {2.1}Языческий пантеон}{8}%
+\contentsline {section}{\numberline {2.2}Низшая мифология}{10}%
+\contentsline {chapter}{\numberline {3}Обряды древних славян}{12}%
+\contentsline {chapter}{\numberline {4}Язычество в культуре и фольклоре}{15}%
+\contentsline {chapter}{\numberline {5}Закат язычества}{19}%
+\contentsline {chapter}{\noindent Заключение}{21}%
+\contentsline {chapter}{\noindent Список использованных источников}{22}%
